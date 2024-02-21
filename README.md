@@ -17,7 +17,7 @@ Follow these steps to set up and run the application locally:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/goyalkunal151/Recruiter-App/.git
+   git clone https://github.com/goyalkunal151/Recruiter-App.git
 
 2. Navigate to the backend directory:
 
