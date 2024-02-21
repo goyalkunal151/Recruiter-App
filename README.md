@@ -39,7 +39,6 @@ Follow these steps to set up and run the application locally:
    DB_PORT=5432
    DB_NAME="your_database_name"
    PORT=4000
-
 Replace "your_database_username", "your_database_password", "your_database_host", and "your_database_name" with your PostgreSQL database credentials.
 
 5. Create the candidates table:
@@ -52,8 +51,7 @@ Replace "your_database_username", "your_database_password", "your_database_host"
 
    ```bash
    nodemon index.js
-
-   The server will start running on port 4000 by default.
+The server will start running on port 4000 by default.
 
 ### Frontend Setup
 
