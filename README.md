@@ -1,6 +1,6 @@
 # Recruiter-App
 
-Welcome to the Candidate Management System! This application allows you to manage candidates efficiently, including adding, updating, and deleting candidates, along with calculating a computed score based on their experience.
+Welcome to the Basic Recruiter Tool App! This application allows you to manage candidates efficiently, including adding, updating, and deleting candidates, along with calculating a computed score based on their experience.
 
 ## Setup Instructions
 
